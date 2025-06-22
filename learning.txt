@@ -1,0 +1,1 @@
+This course has helped me understand Git and GitHub. I've learned about branches, commits, pull requests, and collaborating on code.
